@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified">
+
+    <!-- Root -->
+    <xsd:element name="grindel_frost_geschichte">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="epoche" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+
+                            <xsd:element name="titel" type="xsd:string"/>
+                            <xsd:element name="zusammenfassung" type="xsd:string"/>
+                            
+                            <xsd:element name="zitat">
+                                <xsd:complexType>
+                                    <xsd:simpleContent>
+                                        <xsd:extension base="xsd:string">
+                                            <xsd:attribute name="autor" type="xsd:string" use="optional"/>
+                                        </xsd:extension>
+                                    </xsd:simpleContent>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                            <xsd:element name="geschichte">
+                                <xsd:complexType mixed="true">
+                                    <xsd:sequence>
+                                        <xsd:element name="absatz" minOccurs="0" maxOccurs="unbounded"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                            <xsd:element name="historischer_kontext">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="fakt" type="xsd:string" maxOccurs="unbounded"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                            <xsd:element name="unternehmens_kontext">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="fakt" type="xsd:string" maxOccurs="unbounded"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                            <xsd:element name="teaser" type="xsd:string"/>
+
+                        </xsd:sequence>
+
+                        <xsd:attribute name="id" type="xsd:string" use="required"/>
+
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+</xsd:schema>

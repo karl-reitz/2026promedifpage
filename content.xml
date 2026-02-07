@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="rssfeed.xsl" media="all"?>
+
+<grindel_frost_geschichte>
+    <epoche id="0">
+        <titel> Der Schmied Alois Frost</titel>
+        <von_bis>1900–1930</von_bis>
+        <zusammenfassung>
+        In der Schmiede des Alois Frost werden die ersten Steigeisen für Touristen geschmiedet.
+        </zusammenfassung>
+        <zitat>
+            <text>Es schien mir sinnlos, von den Wundern der Ferne immer nur zu träumen, ich wollte sie erleben.</text>
+            <autor>Herbert Tichy</autor>
+        </zitat>
+        <geschichte>
+        Grindel ist ein kleiner Ort im Schweizer Kanton Solothurn.
+        Zu Beginn des 20. Jahrhunderts prägen lange Winter, harte körperliche Arbeit und wirtschaftliche Unsicherheit das Leben der Bevölkerung. 
+        In dieser Umgebung betreibt der Schmied Alois Frost eine kleine Werkstatt. Er fertigt Werkzeuge und einfache Steighilfen, die von Bauern und Waldarbeitern genutzt werden, um sich im Winter auf vereisten Hängen fortzubewegen.
+        Die Lebensbedingungen dieser Zeit sind von Entbehrungen geprägt.
+        Für viele Arbeiter bedeutet der Alltag schwere körperliche Arbeit, häufig unter widrigen Bedingungen.
+        Freizeit und sportliche Betätigung in den Bergen sind ein unvorstellbarer Luxus.
+            
+        Eines Tages beobachtet ein wohlhabender englischer Tourist, wie ein Waldarbeiter mit Steighilfen aus Frosts Schmiede eine vereiste Bergflanke überquert.
+        Beeindruckt von der Funktionalität dieser wirkungsvollen Konstruktion, sucht er Alois Frost auf. 
+        Er beauftragt ihn mit der Herstellung von Steigeisen, die ein sicheres Gehen auf Gletschern in den Westalpen ermöglichen sollen.
+            
+        In den folgenden Jahren steigt die Nachfrage stetig. 
+        Vor allem englische Alpinisten lassen sich Steigeisen aus der Schmiede von Alois Frost anfertigen.
+        Die wirtschaftliche Lage der Familie verbessert sich. 
+        Um 1930 arbeiten bereits zwanzig Schmiede in der Werkstatt. 
+        Die Steigeisen von Grindel Frost werden von Touristen gekauft und weltweit bekannt gemacht.
+            
+        1936 stirbt Alois Frost im Alter von 83 Jahren.
+        Er hinterlässt ein Unternehmen, das von seinen Nachkommen weitergeführt wird. 
+        Grindel Frost bleibt ein Familienunternehmen und wird im 20. und 21. Jahrhundert die Geschichte des Alpinsports prägen.
+        </geschichte>
+        <historischer_kontext>
+            <fakt>Jährlich besuchen nur wenige tausend Touristen die Alpenregionen der Schweiz</fakt>
+            <fakt>Hochalpine Regionen sind nur zu Fuß erreichbar</fakt>
+            <fakt>Viele Alpenbewohner arbeiten 16 Stunden täglich, Kinder arbeiten von kleinauf mit</fakt>
+        </historischer_kontext>
+        <unternehmens_kontext>
+            <fakt>Steigeisen sind Einzelanfertigungen</fakt>
+            <fakt>In den Anfangsjahren werden nur wenige duzend Steigeisen geschmiedet</fakt>
+            <fakt>Um 1930 beschäftigt Grindel Frost bereits 30 Schmiede</fakt>
+        </unternehmens_kontext>
+        <steigeisen>
+            <name>Geschmiedetes Steigeisen </name>
+            <text>Ein von Alois Frost geschmiedetes Steigeisen ca 1910. In dieser Epoche werden Steigeisen hauptsächlich von Bauern und Waldarbeitern im Winter genutzt.</text>
+        </steigeisen>
+        <image_description>
+        Unternehmensgründer Alois Frost in seiner Schmiede ca. 1922.
+        </image_description>
+        <teaser>
+        Aus einem Handwerksbetrieb entsteht ein spezialisiertes Unternehmen – im nächsten Kapitel zeigt sich, wie technische Innovationen und sportlicher Ehrgeiz unsere Steigeisen grundlegend verändern.
+        </teaser>
+    </epoche>
+
+    <epoche id="1">
+        <titel>Technischer Durchbruch und alpinistische Pionierleistungen</titel>
+        <von_bis>1930–1950</von_bis>
+        <zusammenfassung>
+        Die Einführung von Steigeisen mit Frontalzacken markiert einen wesentlichen technischen Fortschritt. Grindel Frost Steigeisen kommen bei anspruchsvollen alpinen Unternehmungen zum Einsatz, unter anderem bei einer Erstdurchsteigung der Eiger-Nordwand. 
+        </zusammenfassung>
+        <zitat>
+            <text>Wenn ich die Zivilisation hinter mir lasse, fühle ich mich sicher. </text>
+            <autor>Heinrich Harrer</autor>
+        </zitat>
+        <geschichte>
+        Heinrich Harrer erzählt von der Durchsteigung der Eiger Nordwand:
+        Im Frühjahr jenes Jahres kursierten unter Bergsteigern Gerüchte über eine Route, an der sich bereits zahlreiche erfahrene Kletterer die Zähne ausgebissen hatten - die Nordwand des Eiger.
+            
+        Ich hatte von den neuen Steigeisen mit Frontalzacken gehört, die in dieser Zeit entwickelt wurden, und meine Gedanken kreisten unablässig um die Frage, ob sie nicht genau das fehlende Puzzleteil waren, um steiles Eis und schwierige Passagen erstmals sicher zu überwinden. Gemeinsam mit meinem Freund Fritz Kasparek reisten wir in die Schweiz, entschlossen, das Unmögliche zu versuchen. 
+            
+        Als wir am 21. Juli in der Kleinen Scheidegg eintrafen, waren bereits andere Bergsteiger dort, darunter Ludwig Vörg und Anderl Heckmair. Unsere Wege kreuzten sich an der Wand, und in einem Moment, den ich nie vergessen werde, entschieden wir uns, den Aufstieg gemeinsam fortzusetzen. Es war eine Entscheidung getragen von Respekt vor dem Berg und dem gemeinsamen Ziel, die Herausforderung zu bewältigen.
+            
+        Die Tage in der Wand waren geprägt von körperlicher Erschöpfung, gefährlichen Bedingungen und der ständigen Gefahr von Lawinen und Steinschlag. Viele Stunden kämpften wir uns Meter für Meter über Fels und Eis voran, immer begleitet von der eisigen Kälte und der unbarmherzigen Steilheit der Nordwand.
+            
+        Am 24. Juli 1938, nach mehr als drei Tagen im Angesicht extremer Bedingungen, standen wir endlich auf dem Gipfel.
+        </geschichte>
+        <historischer_kontext>
+            <fakt>Zwischen 1930 und 1950 steigt die Zahl der Alpinisten in den Alpen deutlich an</fakt>
+            <fakt>Die Eiger-Nordwand gilt bis 1938 als eines der größten ungelösten Probleme des Alpinismus</fakt>
+            <fakt>Technische Innovationen wie Frontalzacken verändern die Klettertechnik grundlegend</fakt>
+        </historischer_kontext>
+        <unternehmens_kontext>
+            <fakt>Grindel Frost entwickelt Steigeisen mit Frontalzacken für steile Eiswände</fakt>
+            <fakt>Die Eiger Nordwand wird wie viele andere große Wände der Alpen auch mit Grindel Frost Steigeisen durchstiegen</fakt>
+            <fakt>Grindel Frost Steigeisen sind die Steigeisen der Pioniere des Klettersports</fakt>
+        </unternehmens_kontext>
+        <steigeisen>
+            <name>Steigeisen mit Ecksteintechnik</name>
+            <text>Steigeisen dieses Types nutzten die Erstbegehner der Eiger Nordwand. Die Frontalzacken schweisten sie vor dem Durchstieg in einer Werkstadt selbst noch an.</text>
+        </steigeisen>
+        <image_description>
+        Heinrich Harrer verzehrt im Juli 1938 im Schwalbennest in der Eiger-Nordwand während der Erstbesteigung ein von seiner Mutter geschmiertes Butterbrot.
+        </image_description>
+        <teaser>
+        In den Alpen sind Grenzen überschritten worden – der Blick richtet sich nun auf die höchsten Berge der Welt und auf völlig neue Anforderungen für unsere Steigeisen.
+        </teaser>
+    </epoche>
+
+    <epoche id="2">
+        <titel>Das Höhenbergsteigen treibt die Weiterentwicklung unserer Steigeisen voran </titel>
+        <von_bis>1950–1980</von_bis>
+        <zusammenfassung>
+        Die Produktentwicklung reagiert zunehmend auf neue alpinistische Anforderungen. Technische Innovationen entstehen aus der Auseinandersetzung mit extremen Umweltbedingungen und veränderten Klettertechniken. 
+        </zusammenfassung>
+        <zitat>
+            <text>Wirklich oben bist du nie. </text>
+            <autor>Reinhard Karl</autor>
+        </zitat>
+        <geschichte>
+        Aus der Perspektive von Reinhard Karl:
+        Ich habe nie geglaubt, dass der Berg bezwungen werden muss. Er ist da, lange bevor wir kommen, und er bleibt, wenn wir wieder gegangen sind. Als wir uns in den späten siebziger Jahren dem Mount Everest näherten, war mir klar, dass es nicht darum ging, mehr Material mitzunehmen, sondern das Richtige.
+            
+        Das Höhenbergsteigen hatte sich verändert. Die großen Expeditionen der fünfziger Jahre hatten gezeigt, dass der Mensch mit Technik fast jede Höhe erreichen konnte. Doch sie hatten auch gezeigt, wie schwer, träge und abhängig man dabei wurde. Ich wollte es anders versuchen. Weniger Ausrüstung, weniger künstliche Hilfen, mehr Verantwortung für jeden Schritt.
+            
+        Als wir den Gipfel erreichten, war es kein Triumph im klassischen Sinne. Es war die Bestätigung, dass sich das Höhenbergsteigen verändert hatte. Weg von der Eroberung, hin zu einem respektvollen Umgang mit dem Berg und zu einer Technik, die dem Menschen dient, nicht umgekehrt.
+        Reinhard Karl stand 1978 als erster Deutscher auf dem Gipfel des Mount Everest. 
+        Er brachte eine reflektierte, kritische Sicht auf den Alpinismus ein und stellte Fragen nach Sinn, Stil und Verantwortung im Umgang mit Bergen und Technik.
+        Karl verstand das Bergsteigen nicht als sportlichen Wettkampf, sondern als persönliche Auseinandersetzung mit Natur, Risiko und eigenen Grenzen. 
+            
+        1982 kam Reinhard Karl am Cho Oyu in einer Lawine ums Leben.
+        </geschichte>
+        <historischer_kontext>
+            <fakt>Ab den 1950er-Jahren verlagert sich der Fokus des Alpinismus zunehmend in den Himalaya</fakt>
+            <fakt>Zwischen 1950 und 1980 werden erstmals alle Achttausender bestiegen</fakt>
+            <fakt>Höhe, extreme Kälte und Sauerstoffmangel stellen neue Anforderungen an Mensch und Material</fakt>
+            <fakt>Der Diskurs über Stil, Verantwortung und technische Hilfsmittel prägt den Alpinismus dieser Zeit</fakt>
+        </historischer_kontext>
+        <unternehmens_kontext>
+            <fakt>Materialien und Konstruktionen werden auf geringes Gewicht und Festigkeit optimiert</fakt>
+            <fakt>Unsere Produkte werden bei Expeditionen im Himalaya eingesetzt</fakt>
+            <fakt>Grindel Frost positioniert sich als Hersteller für anspruchsvolles Höhenbergsteigen</fakt>
+        </unternehmens_kontext>
+        <steigeisen>
+            <name>Steigeisen Monte Rosa ca. 1973</name>
+            <text>Unsere Steigeisen bieten bereits mit ihren Frontalzacken zuverlässigen hatl und sind vielseitig einsetzbar.</text>
+        </steigeisen>
+        <image_description>
+        Reinhard Karl (rechts) zusammen mit einem unbekannten Bergsteiger 1982 auf dem Gipfel des Fitz Roy in Patagonien.
+        </image_description>
+        <teaser>
+       Die Erfahrungen des Höhenbergsteigens prägen Technik und Haltung – im nächsten Abschnitt wird deutlich, wie diese Entwicklungen den Alpinismus für eine breite Öffentlichkeit zugänglich machen.
+        </teaser>
+    </epoche>
+
+    <epoche id="3">
+        <titel>Der Alpinismus wird zum Breitensport</titel>
+        <von_bis>1980–2000</von_bis>
+        <zusammenfassung>
+         Der Austausch mit Alpinisten beeinflusst die Weiterentwicklung der Steigeisen maßgeblich. Gleichzeitig entwickelt sich der Alpinismus hin zu einer Freizeitbeschäftigung.         </zusammenfassung>
+        <zitat>
+            <text>Jeder Gipfel ist in Wirklichkeit nur ein Umweg zur nächsten Kneipe. </text>
+            <autor>Hans Kammerlander</autor>
+        </zitat>
+        <geschichte>
+        Karl, ein junger ambitionierter Bergsteiger berichtet:
+        Ich erinnere mich an diesen Morgen in der Bernina.
+
+        Sven und ich sind früh aufgestanden. Es wird noch Stunden dauern bis die Sonne aufgeht.
+        Der Piz Bernina ist kein unerreichbares Ziel mehr, kein Name aus einem Expeditionsbericht – er ist ein Berg, den man an einem freien Wochenende angehen kann. 
+        Steigeisen, Seil, Pickel: alles liegt griffbereit, sorgfältig zusammengestellt, bezahlbar, verlässlich.
+        Nach stundenlangem Aufstieg liegt er vor uns, der Biancograd, die Himmelsleiter, einmal im Leben.
+  
+        Der Grad ist steil und schmal. An einer Stelle verliert Karl den Halt und rutscht den Grad hinunter. Das Seil hält, Sven hält, die guten Grindel Frost Steigeisen finden wieder Halt im Firn.
+        Doch die Zeit ist weit fortgeschritten, wir entscheiden umzukehren.
+        Der Abstieg über den Gletscher zieht sich. Die Kräfte schwinden, die Dämmerung setzte ein. Wir müssen auf dem Gletscher biwakieren. 
+            
+        Am nächsten Morgen steigen wir durchgefrohren, erleichtert aber auch glücklich ab. 
+        Glücklich, weil wir hier sind und weil solche Abenteuer längst nicht mehr einer kleinen Elite vorbehalten sind.
+        Der Alpinismus hatte sich verändert. Auch weil Hersteller wie Grindel Frost Steigeisen für alle zugänglich gemacht haben.
+        </geschichte>
+        <historischer_kontext>
+            <fakt>Ab den 1980er-Jahren entwickelt sich der Alpinismus zunehmend zu einer Freizeit- und Breitensportaktivität</fakt>
+            <fakt>Moderne Verkehrsmittel erleichtern den Zugang zu alpinen Regionen</fakt>
+            <fakt>Technische Ausrüstung wird für eine größere Zielgruppe zugänglich und erschwinglich</fakt>
+        </historischer_kontext>
+
+        <unternehmens_kontext>
+            <fakt>Grindel Frost entwickelt Steigeisen für unterschiedliche Anforderungen</fakt>
+            <fakt>Die Produktpalette wird um wartungsarme und vielseitige Modelle erweitert</fakt>
+            <fakt>Rückmeldungen von Freizeit- und Hobbyalpinisten fließen in die Produktentwicklung ein</fakt>
+        </unternehmens_kontext>
+        <steigeisen>
+            <name>Steigeisen Modell Gran Paradiso</name>
+            <text>Unsere Steigeisen garantieren Leichtigkeit, Flexibilität und eine perfekte Anpassung an alle Sohlen.</text>
+        </steigeisen>
+        <image_description>
+        Der Biancograd mit Piz Bernina im Hintergrund. Der auch als "Himmelsleiter" bezeichnete Grat ist eine der ästhetischsten Touren in den Alpen.
+        </image_description>
+
+        <teaser>
+       Aus einem elitären Sport ist eine Freizeitbeschäftigung geworden – im letzten Kapitel steht die Frage im Mittelpunkt, welche Verantwortung daraus für Hersteller und Sportler entsteht.
+        </teaser>
+    </epoche>
+
+    <epoche id="4">
+        <titel>Erweiterung des Geschäftsmodells und gesellschaftliche Verantwortung </titel>
+        <von_bis>ab 2000</von_bis>
+        <zusammenfassung>
+        Neben der Produktentwicklung gewinnen neue Aspekte an Bedeutung. Serviceangebote, sowie die Verantwortung gegenüber Natur und Sportlerinnen und Sportlern rücken in den Fokus. 
+        </zusammenfassung>
+        <zitat>
+            <text>Ich, der Reinhard auf einem Schneehaufen.</text>
+            <autor>Reinhard Karl über den Mount Everest</autor>
+        </zitat>
+        <geschichte>
+        Anna ist Produktentwicklering bei Grindel Frost.
+        Was sie entwickelt, trägt sie selbst an den Füßen und sie spricht über uns und unsere Produkte.
+        Die Berge sind für sie kein Sportgerät – sie sind ihre Heimat.
+        In der Entwicklungsarbeit sucht sie nach Lösungen, die Sicherheit bieten und zugleich Verantwortung zeigen.
+        Reparierbarkeit, Langlebigkeit und ein bewusster Umgang mit Ressourcen sind für sie keine Zusatzoptionen.
+            
+        Wenn Anna nicht in der Werkstatt oder in den Bergen ist, steht sie vor Schulklassen.
+         Ehrenamtlich spricht sie über die Berge, über Natur, über Respekt. 
+         Viele der Jugendlichen kennen den Bergsport nur aus Videos. 
+         Anna nutzt genau diese digitalen Kanäle um andere Aspekte ins Bewusstsein zu holen.
+            
+         Auch bei Grindel Frost hat sich der Blick geweitet. Wir wollen nicht mehr nur ein Hersteller sein.
+         Neben der Weiterentwicklung unserer Produkte entstehen Serviceangebote, digitale Informationsformate und Initiativen zum Schutz der Bergwelt.
+            
+        Haltung und Verantwortung gehören für uns zur Ausrüstung wie 12 Zacken an ein Steigeisen.
+        </geschichte>
+        <historischer_kontext>
+            <fakt>Ab den 2000er-Jahren rücken Nachhaltigkeit und Umweltverträglichkeit in den Fokus des Bergsports</fakt>
+            <fakt>Digitale Medien prägen zunehmend die Wahrnehmung vom Alpinismus</fakt>
+            <fakt>Verantwortung, Sicherheit und Individualität gewinnen an Bedeutung</fakt>
+        </historischer_kontext>
+        <unternehmens_kontext>
+            <fakt>Serviceangebote, Informationsformate und digitale Inhalte ergänzen unsere Produktpalette</fakt>
+            <fakt>Langlebigkeit, Reparierbarkeit und Ressourcenschonung werden zu Entwicklungszielen</fakt>
+            <fakt>Grindel Frost macht sich aud den Weg vom Produkthersteller zur ganzheitlichen Plattform</fakt>
+        </unternehmens_kontext>
+        <steigeisen>
+            <name>Grindel Ultra 2020</name>
+            <text>Durch die einzigartige Kombination von Aluminium und gehärteten Stahlfrontzacken ist dieses Steigeisen das aktuell leichteste Steileiseisen am Markt.</text>
+        </steigeisen>
+        <image_description>
+       Unsere Produktentwicklerin Anna entwickelt unsere Steigeisen und trägt sie bei ihren zahlreichen Touren.
+        </image_description>
+        <teaser>
+        </teaser>
+    </epoche>
+
+</grindel_frost_geschichte>
