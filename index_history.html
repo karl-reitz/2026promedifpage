@@ -433,7 +433,7 @@
                         </div>
                     </div>
 
-                    <p v-if="currentEpocheId < 4" class="font-semibold">
+                    <p v-if="currentEpoche && currentEpocheId < 4" class="font-semibold">
                         {{ currentEpoche.teaser }}<br>
                         <a href="#top" v-if="currentEpoche" @click.prevent="selectEpocheNext(currentEpoche.id)"
                             class="font-semibold text-fg-brand hover:underline text-blue-800">hier geht es
