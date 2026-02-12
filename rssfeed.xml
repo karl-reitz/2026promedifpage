@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="rssfeed.xsl" media="all"?>
+
 <grindel_frost_geschichte>
     <epoche id="0">
         <titel> Der Schmied Alois Frost</titel>

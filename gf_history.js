@@ -30,20 +30,15 @@ createApp(
 
                 } else if (speechSynthesis.speaking) {
                     speechSynthesis.pause();
-
                 } else {
                     const text = `
                     Überschrift: ${this.currentEpoche.titel}
                     <break time="1000ms"/>
-
                     ${this.currentEpoche.zitat.text}
                     <break time="1000ms"/>
-
                     ${this.currentEpoche.zitat.autor}
                     <break time="3000ms"/>
-
-                    ${this.currentEpoche.geschichte}
-                    `;
+                    ${this.currentEpoche.geschichte}`;
                     const utterance = new SpeechSynthesisUtterance(text);
                     utterance.lang = "de-DE";
                     speechSynthesis.speak(utterance);
